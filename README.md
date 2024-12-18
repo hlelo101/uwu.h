@@ -10,7 +10,7 @@ Simply add `#include "uwu.hpp"` on top of your file, and let the magic do its th
 99% of you might have guessed it. Yes, it's a mess of `#define`s.
 
 # Give the uwufied keywords
-No. List is too long. And I'm too lazy to properly put it here. Just check `uwu.h`.
+No. List is too long. And I'm too lazy to properly put it here. Just check `uwu.hpp`.
 
 # Gib some examples
 Sure! Here's one:
