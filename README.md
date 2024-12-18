@@ -1,13 +1,13 @@
 # What's this horror?
 This is **uwu.h**. It uwuifies C++, also compatible with C (tho that compatibility hasn't been tested).
-There's a big chance some keywords might be missing (in fact, I'm sure there's some missing), but for the most
-common uses, that should be enough.
+There's a big chance some keywords might be missing (in fact, I'm sure there's some missing), but for 
+the most common uses, that should be enough.
 
 # How can I use it?
 Simply add `#include "uwu.hpp"` on top of your file, and let the magic do its thing.
 
 # How does it work?
-99% of you might have guessed it. Yes, it's a mess of `#define`s.\
+99% of you might have guessed it. Yes, it's a mess of `#define`s.
 
 # Give the uwufied keywords
 No. List is too long. And I'm too lazy to properly put it here. Just check `uwu.h`.
